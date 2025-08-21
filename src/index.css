@@ -1,0 +1,9 @@
+@import "tailwindcss";
+@import "@fontsource/poppins";
+@import "@fontsource/varela-round";
+
+@theme {
+  --font-poppins: "Poppins", sans-serif;
+  --font-varela: "Varela Round", sans-serif;
+}
+
